@@ -32,7 +32,7 @@ window.App = {
       }
 
       if (accs.length == 0) {
-        alert("Couldn't get any accounts! Make sure your Ethereum client is configured correctly.");
+        //alert("Couldn't get any accounts! Make sure your Ethereum client is configured correctly.");
         return;
       }
 
